@@ -4,10 +4,6 @@
 
 I'm passionate about creating elegant, user-friendly web experiences through clean code and modern technologies.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laibakhan20&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views counter" />
-</div>
-
 ## 🔧 Tech Stack
 
 <div align="center">
