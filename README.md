@@ -54,8 +54,8 @@ I'm passionate about creating elegant, user-friendly web experiences through cle
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laibakhan/)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laibakhan)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/laibakhan/](https://www.linkedin.com/in/laiba-khan-a17a89296))
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Laibakhan](https://github.com/Laibakhan20))
   
 </div>
 
