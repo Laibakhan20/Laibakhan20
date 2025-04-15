@@ -27,8 +27,8 @@ I'm passionate about creating elegant, user-friendly web experiences through cle
 ## 🎓 Education & Learning Journey
 
 - 🏫 Currently pursuing a **Bachelor of Science in Information Technology (BSIT)**
-- 📚 Learning **Agentic AI Engineering**
-- 🔍 Learning through platforms like **Awfera**, **DigiSkills**, and **Coursera**
+- 📚 I'm also diving into **Agentic AI Engineering**
+- 🔍 Learning other courses through platforms like **Awfera**, **DigiSkills**, and **Coursera**
 
 ## 🌟 What I'm Currently Working On
 
@@ -62,9 +62,9 @@ I'm passionate about creating elegant, user-friendly web experiences through cle
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laibakhan&show_icons=true&theme=radical" alt="Laiba's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laibakhan20&show_icons=true&theme=radical" alt="Laiba's GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laibakhan&theme=radical" alt="Laiba's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laibakhan20&theme=radical" alt="Laiba's GitHub streak" />
 </div>
 
 ---
