@@ -4,6 +4,10 @@
 
 I'm passionate about creating elegant, user-friendly web experiences through clean code and modern technologies.
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laibakhan20&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views counter" />
+</div>
+
 ## 🔧 Tech Stack
 
 <div align="center">
@@ -61,11 +65,7 @@ I'm passionate about creating elegant, user-friendly web experiences through cle
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laibakhan20&show_icons=true&theme=radical" alt="Laiba's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laibakhan20&theme=radical" alt="Laiba's GitHub streak" />
-</div>
+
 
 ---
 
