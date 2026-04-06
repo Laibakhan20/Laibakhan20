@@ -1,6 +1,6 @@
 # Hi there, I'm Laiba Khan 👋
 
-## Frontend Web Developer | BSIT Student | Aspiring Agentic AI Engineer
+## Frontend Web Developer | Aspiring Agentic AI Engineer
 
 I'm passionate about creating elegant, user-friendly web experiences through clean code and modern technologies.
 
